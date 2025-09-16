@@ -24,3 +24,4 @@ google collab screeshots :
 ![3](https://github.com/user-attachments/assets/025a6742-8f60-4c55-8705-ea05d1bdd7e2)
 ![4](https://github.com/user-attachments/assets/b1436cbe-1681-4bbf-8cdf-97106b790bb7)
 demo link :https://drive.google.com/file/d/1UPxLWcYiNwHy-WD63002-NCU02957pQn/view?usp=drive_link
+project final report : https://drive.google.com/file/d/14AOPZUpE5fk0t_bIrYpMZ-UXiP5fxkQ9/view?usp=drive_link
